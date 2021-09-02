@@ -1,0 +1,17 @@
+{
+    "name": "a/a",
+    "description": "a",
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolay",
+            "email": "sumakaki37rus@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
